@@ -1,16 +1,52 @@
-### Hi there 👋
+### 👋 Hi there, I am Gaston
 
-<!--
-**gaganza/gaganza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' width='230' src='https://avatars.githubusercontent.com/u/28404937?v=4'>
 
-Here are some ideas to get you started:
+```javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const gaston = {
+  pronouns: ['He', 'Him' ],
+  spokenLanguages: ['English', 'Spanish'],
+  languages: [
+    'Javascript',
+    'Python',
+    'Ruby',
+    'SQL',
+    'Typescript'
+    ],
+  frameWorksAndTechnologies: [
+    'AWS',
+    'Git Actions',
+    'Github',
+    'Jenkins',
+    'NestJs',
+    'NodeJs',
+    'OpenAPI',
+    'Postman',
+    'ReactJs',
+    'Redis',
+    'Redux',
+    'Ruby on Rails'
+  ],
+  focus: 'Full stack application development',
+  education: [{
+    univeristy: 'California Polytechnic State University',
+    degree: 'Bachelor of Science: Computer Science',
+    start: 'September 2015',
+    end: 'December 2019'
+  }],
+  interests: [
+    'Boxing',
+    'Brazilian Jiu-Jitsu',
+    'Coffee',
+    'Cooking',
+    'Hiking',
+    'Music',
+    'Reddit',
+    'Scuba Diving'.
+    'Traveling',
+    'Video Games'
+  ]
+};
+
+```
